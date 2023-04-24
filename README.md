@@ -1,20 +1,14 @@
 
-<h2>Hello! I'm KEIKO, Front-end Developer based in Vancouver, Canada👩🏼‍💻🇨🇦</h2>
+<h2>Hello! I'm KEIKO, a Front-end Developer based in Vancouver, Canada👩🏼‍💻🇨🇦</h2>
 
-<h3>Outglow Your Comfort Zone</h3>
+<p> Outgrow Your Comfort Zone </p>
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-
+    <li>🪴Never stop learning</li>
+    <li>🦋Corporative and Respect mind with team</li>
+    <li>🗝️Willingness to improve and never give up　is the key to be better coder</li>
+    <li>🌎Life Adevnturer with multiple backgrounds and cultures 🇯🇵🇺🇸🇰🇷🇨🇦</li>
+    <li>🌿Nature Lover 🏄🏻‍♀️Paddler ☕️Cafe explorer</li>
 </ul>
-
-
-
-
- 👋
-
-
 
 Connect With Me:
 <a href="https://www.linkedin.com/in/keikoshimizu/">
