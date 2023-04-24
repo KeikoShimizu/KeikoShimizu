@@ -1,5 +1,5 @@
 
-<h2>Hello! I'm KEIKO, Front-end Developer based in Vancouver, Canada</h2>👩🏼‍💻🇨🇦
+<h2>Hello! I'm KEIKO, Front-end Developer based in Vancouver, Canada👩🏼‍💻🇨🇦</h2>
 
 <h3>Outglow Your Comfort Zone</h3>
 <ul>
