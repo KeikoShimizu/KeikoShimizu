@@ -21,7 +21,7 @@
 <img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png">
 <img src="https://www.pinpng.com/pngs/m/304-3046108_css3-logo-logos-css3-hd-png-download.png">
 <img src="https://logospng.org/wp-content/uploads/javascript.png">
-<img src="../images/sass.svg">
+<img src="images/sass.svg">
 
 
 <img src="https://e7.pngegg.com/pngimages/825/919/png-clipart-react-javascript-library-github-backbone-logo-symmetry-thumbnail.png">
