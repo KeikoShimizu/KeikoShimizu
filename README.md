@@ -13,7 +13,7 @@
 <div>
     <h3>Connect With Me:</h3>
     <a href="https://www.linkedin.com/in/keikoshimizu/">
-        <img src="https://skillicons.dev/icons?i=js,linkedin"/>
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
 </p>
 </div>
@@ -21,12 +21,14 @@
 <h3>Technical Skills</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,nodejs,express,mongodb,firebase,,git,postman,sass,figma"/>
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,sass,figma"/>
     </a>
 </p>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeikoShimizu&layout=compact&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
+<div display="flex" >
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeikoShimizu&layout=compact&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
+</div>
