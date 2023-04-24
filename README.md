@@ -17,18 +17,22 @@
     </a>
 </div>
 
-<p>Technical Skills</p>
-<img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png">
-<img src="https://www.pinpng.com/pngs/m/304-3046108_css3-logo-logos-css3-hd-png-download.png">
-<img src="https://logospng.org/wp-content/uploads/javascript.png">
-<img src="images/sass.svg">
+<h3>Technical Skills</h3>
+<img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png" 
+    alt="html"
+    width="200px"
+    height="200px"    
+>
+<img src="https://www.pinpng.com/pngs/m/304-3046108_css3-logo-logos-css3-hd-png-download.png" alt="css">
+<img src="https://logospng.org/wp-content/uploads/javascript.png" alt="javascript">
+<img src="images/sass.svg" alt="sass">
 
 
-<img src="https://e7.pngegg.com/pngimages/825/919/png-clipart-react-javascript-library-github-backbone-logo-symmetry-thumbnail.png">
-<img src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png">
+<img src="https://e7.pngegg.com/pngimages/825/919/png-clipart-react-javascript-library-github-backbone-logo-symmetry-thumbnail.png" alt="reactjs">
+<img src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" alt="react-native">
 
-<img src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
-<img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg">
+<img src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="node-js">
+<img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg" alt="express.js">
 
 
 
