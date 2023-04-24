@@ -1,27 +1,28 @@
 
 <h2>Hello! I'm KEIKO, a Front-end Developer based in Vancouver, Canada👩🏼‍💻🇨🇦</h2>
 
-<p> Outgrow Your Comfort Zone </p>
+<h3> Outgrow Your Comfort Zone </h3>
 <ul>
     <li>📚 Never stop learning</li>
     <li>🦋 Corporative and Respect mind with team</li>
-    <li>🗝️ Willingness to improve and never give up is the key to be better coder</li>
+    <li>🗝️ Willingness to improve and never give up is the key to be better coder :-)</li>
     <li>🌎 Life Adevnturer with multiple backgrounds and cultures 🇯🇵🇺🇸🇰🇷🇨🇦</li>
     <li>🌿:Nature Lover  🏄🏻‍♀️:Paddler ✈️:Travel expert ☕️:Cafe explorer</li>
 </ul>
 
 <div>
-    <p>Connect With Me:</p>
+    <h3>Connect With Me:</h3>
     <a href="https://www.linkedin.com/in/keikoshimizu/">
-        <img align="left" src="https://raw.githubusercontent.com/keikoshimizu/keikoshimizu/main/images/linkedin.svg" alt="Keiko | LinkedIn" width="21px"/>
+        <img src="https://skillicons.dev/icons?i=js,linkedin"/>
     </a>
+</p>
 </div>
 
 <h3>Technical Skills</h3>
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,nodejs,mongodb,git,firebase,express,figma,postman,sass"/>
-</a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,nodejs,express,mongodb,firebase,,git,postman,sass,figma"/>
+    </a>
 </p>
 
 
