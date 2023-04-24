@@ -18,17 +18,13 @@
 </p>
 </div>
 
-<h3>Technical Skills</h3>
-<p align="center">
+<h3>Technical Skills:</h3>
+<p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,sass,figma"/>
     </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
 
-
-<div display="flex" >
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeikoShimizu&layout=compact&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeikoShimizu&layout=compact&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
