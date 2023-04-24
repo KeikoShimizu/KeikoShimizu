@@ -18,7 +18,7 @@
 </div>
 
 <p>Technical Skills</p>
-<img src="https://p7.hiclipart.com/preview/1005/511/631/web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg">
+<img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
