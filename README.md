@@ -18,7 +18,11 @@
 </div>
 
 <h3>Technical Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,nodejs,mongodb,git,firebase,express,figma,postman,sass)](https://skillicons.dev)
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,nodejs,mongodb,git,firebase,express,figma,postman,sass"/>
+</a>
+</p>
 
 
 
