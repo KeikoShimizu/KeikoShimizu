@@ -1,10 +1,18 @@
 
-<h3>Welcome to KEIKO's Repo!</h3>
+<h1>Hello! I'm KEIKO, Front-end Developer based in Vancouver, Canada</h1>👩🏼‍💻🇨🇦
+
+<h3>Outglow Your Comfort Zone</h3>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+
+</ul>
+
+
+
+
  👋
-
-
-
-
 
 
 
@@ -12,8 +20,6 @@ Connect With Me:
 <a href="https://www.linkedin.com/in/keikoshimizu/">
     <img align="left" src="https://raw.githubusercontent.com/keikoshimizu/keikoshimizu/main/images/linkedin.svg" alt="Keiko | LinkedIn" width="21px"/>
 </a>
-
-image.png
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
 
