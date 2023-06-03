@@ -20,7 +20,7 @@
 
 <h3>Technical Skills:</h3>
 <p>
-        <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,postman,sass,figma"/>
+        <img src="https://skillicons.dev/icons?i=js,typescript,html,css,sass,react,nextjs,nodejs,express,mongodb,firebase,git,postman,figma"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeikoShimizu&count_private=true&show_icons=true&theme=radical)](https://github.com/KeikoShimizu/github-readme-stats)
