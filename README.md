@@ -5,7 +5,7 @@
 <ul>
     <li>📚 Never stop learning</li>
     <li>🦋 Corporative and Respect mind with team</li>
-    <li>🗝️ Willingness to improve and Never give up is the key to be better coder :-)</li>
+    <li>🗝️ Willingness to improve and Never give up is the key to be a better coder :-)</li>
     <li>🌎 Life adventurer with multiple backgrounds and cultures 🇯🇵🇺🇸🇰🇷🇨🇦</li>
     <li>🌿 : Nature Lover  🏄🏻‍♀️ : Paddler ✈️ : Travel expert ☕️ : Cafe explorer</li>
 </ul>
