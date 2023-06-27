@@ -15,7 +15,6 @@
     <a href="https://www.linkedin.com/in/keikoshimizu/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-</p>
 </div>
 
 <h3>Technical Skills:</h3>
