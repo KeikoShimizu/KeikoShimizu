@@ -17,13 +17,7 @@
     </a>
 </div>
 <div>
-    <h3>Visit my <a href="https://www.linkedin.com/in/keikoshimizu/">Resume</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio</a></h3>
-    
-        
-    </a>
-    <h3>Portfolio: </h3>
-    <a href="https://www.linkedin.com/in/keikoshimizu/">
-    </a>
+    <h3>Visit my <a href="https://www.linkedin.com/in/keikoshimizu/">Resume 📄</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio 🖥️</a></h3>
 </div>
 
 
