@@ -15,10 +15,17 @@
     <a href="https://www.linkedin.com/in/keikoshimizu/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-    <a>
-        <img src="https://th.bing.com/th/id/R.0364027daf09ca518d0d6cf84ec1c854?rik=xLRwUUn674P1VQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon-bw%2fresume-icons-png-                        1.png&ehk=VxaHGyEICFaBVgkQ%2b%2bucGbK88w0lTu8GhNsZOj3Eslc%3d&risl=&pid=ImgRaw&r=0"/>
+</div>
+<div>
+    <h3>Resume & Portfolio</h3>
+    <a href="https://www.linkedin.com/in/keikoshimizu/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
-        </div>
+    <a href="https://www.linkedin.com/in/keikoshimizu/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+</div>
+
 
 <h3>Technical Skills:</h3>
 <p>
