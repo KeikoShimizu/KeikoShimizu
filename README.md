@@ -17,12 +17,12 @@
     </a>
 </div>
 <div>
-    <h3>Resume & Portfolio</h3>
+    <h3>Resume: </h3>
     <a href="https://www.linkedin.com/in/keikoshimizu/">
-        <img src="https://skillicons.dev/icons?i=linkedin"/>
+        <span>Resume</span>
     </a>
+    <h3>Portfolio: </h3>
     <a href="https://www.linkedin.com/in/keikoshimizu/">
-        <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
 </div>
 
