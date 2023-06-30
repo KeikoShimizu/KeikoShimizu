@@ -11,14 +11,15 @@
 </ul>
 
 <div>
+    <h3>Visit my <a href="https://docs.google.com/document/d/1J5jGZkFjAulyzSPMdRm2Jo4kjCqujgO7iMi3KG__J_s/edit?usp=sharing">Resume 📄</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio 🖥️</a></h3>
+</div>
+<div>
     <h3>Connect With Me:</h3>
     <a href="https://www.linkedin.com/in/keikoshimizu/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
 </div>
-<div>
-    <h3>Visit my <a href="https://docs.google.com/document/d/1J5jGZkFjAulyzSPMdRm2Jo4kjCqujgO7iMi3KG__J_s/edit?usp=sharing">Resume 📄</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio 🖥️</a></h3>
-</div>
+
 
 
 <h3>Technical Skills:</h3>
