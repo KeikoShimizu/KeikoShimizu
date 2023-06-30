@@ -17,7 +17,7 @@
     </a>
 </div>
 <div>
-    <h3>Visit my <a href="[https://www.linkedin.com/in/keikoshimizu/](https://docs.google.com/document/d/1J5jGZkFjAulyzSPMdRm2Jo4kjCqujgO7iMi3KG__J_s/edit?usp=sharing">Resume 📄</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio 🖥️</a></h3>
+    <h3>Visit my <a href="https://docs.google.com/document/d/1J5jGZkFjAulyzSPMdRm2Jo4kjCqujgO7iMi3KG__J_s/edit?usp=sharing">Resume 📄</a> & <a href="https://www.linkedin.com/in/keikoshimizu/">Portfolio 🖥️</a></h3>
 </div>
 
 
