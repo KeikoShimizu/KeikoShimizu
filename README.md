@@ -18,6 +18,9 @@
     <a href="https://www.linkedin.com/in/keikoshimizu/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
+    <a href="https://www.threads.net/@keei0613">
+        <img src="https://skillicons.dev/icons?i=threads"/>
+    </a>
 </div>
 
 
