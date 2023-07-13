@@ -6,7 +6,7 @@
     <li>📚 Never stop learning</li>
     <li>🦋 Corporative and Respect mind with team</li>
     <li>🗝️ Willingness to improve and Never give up is the key to be a better coder :-)</li>
-    <li>🌎 Life adventurer with multiple backgrounds and cultures 🇯🇵🇺🇸🇰🇷🇨🇦</li>
+    <li>🌎 Life adventurer with multiple backgrounds and cultures 🇯🇵🇰🇷🇨🇦</li>
     <li>🌿 : Nature Lover  🏄🏻‍♀️ : Paddler ✈️ : Travel expert ☕️ : Cafe explorer</li>
 </ul>
 
@@ -19,7 +19,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
     <a href="https://www.threads.net/@keei0613">
-        <img src="https://skillicons.dev/icons?i=threads"/>
+        <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
 </div>
 
