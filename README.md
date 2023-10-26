@@ -11,7 +11,7 @@
 </ul>
 
 <div>
-    <h3>Visit my <a href="[https://docs.google.com/document/d/1J5jGZkFjAulyzSPMdRm2Jo4kjCqujgO7iMi3KG__J_s/edit?usp=sharing](https://docs.google.com/document/d/1jjtXVCReiouzf7NmBfKvlQLpAmjrygwhryNk1u2GmV8/edit?usp=sharing)">Resume 📄</a> & <a href="https://keikoshimizu.dev/">Portfolio 🖥️</a></h3>
+    <h3>Visit my <a href="https://docs.google.com/document/d/1jjtXVCReiouzf7NmBfKvlQLpAmjrygwhryNk1u2GmV8/edit?usp=sharing">Resume 📄</a> & <a href="https://keikoshimizu.dev/">Portfolio 🖥️</a></h3>
 </div>
 <div>
     <h3>Connect With Me:</h3>
